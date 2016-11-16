@@ -1,0 +1,3 @@
+esprit_mouldi_homepage:
+    path:     /
+    defaults: { _controller: EspritMouldiBundle:Default:index }

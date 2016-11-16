@@ -1,3 +1,7 @@
+esprit_mouldi:
+    resource: "@EspritMouldiBundle/Resources/config/routing.yml"
+    prefix:   /
+
 daw:
     resource: "@DawBundle/Resources/config/routing.yml"
     prefix:   /
