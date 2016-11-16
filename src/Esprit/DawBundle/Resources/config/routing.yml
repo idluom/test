@@ -1,0 +1,3 @@
+daw_homepage:
+    path:     /
+    defaults: { _controller: DawBundle:Default:index }
